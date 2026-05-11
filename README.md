@@ -206,6 +206,6 @@ Depois de finalizar, copie no Moodle:
 
 ```text
 Repositório: https://github.com/frndchagas-org/diagn-stico-de-retomada-aprendizado-de-m-quina-GabrielGomes-Dev/tree/main
-Commit final: af1c0aa
+Commit final: 
 Autoavaliação: Considero meu nível atual como intermediário e autônomo nas bases da disciplina. Conduzi as atividades sob minha responsabilidade com independência, o que me permitiu consolidar um forte entendimento teórico e prático sobre o ciclo de vida de modelos preditivos, divisão de dados (treino/teste), avaliação de métricas e identificação de overfitting. Minha maior dificuldade residiu na falta de prática direta com ferramentas específicas (como SQL/ETL e certos algoritmos) em virtude da divisão de tarefas durante os trabalhos em grupo. Por esse motivo, o tópico que precisa ser retomado com prioridade é a implementação prática e a parametrização do algoritmo XGBoost, visando preencher essa lacuna técnica e garantir uma compreensão plena de seu funcionamento.
 ```
